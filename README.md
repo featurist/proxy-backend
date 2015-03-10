@@ -7,7 +7,7 @@ E.g.
     curl 'localhost:4000/one?sldkf=asdf' -H 'Host: absdlfksd' -H 'X-Blah: alsdkf'
 
     {
-      "host": "surf.local",
+      "host": "94d86b2a8a4a",
       "url": "/one?sldkf=asdf",
       "method": "GET",
       "headers": {
