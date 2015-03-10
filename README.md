@@ -19,3 +19,5 @@ E.g.
     }
 
 Available as a docker image: [refractalize/proxy-backend](https://registry.hub.docker.com/u/refractalize/proxy-backend/)
+
+    docker run -d -p 4000:80 refractalize/proxy-backend
